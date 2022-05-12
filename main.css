@@ -26,6 +26,8 @@ td {
     text-align: center;
 }
 
+<img id="mole" src="mole.png">
+
 .inflate-an-image{
     display: inline-block;
     width: 400px;
